@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiddharthP121
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Web development 
+- 🌱 I’m currently learning Development 
 - 💞️ I’m looking to collaborate on project that can enhance my skills.
 - -Here is my linked in https://in.linkedin.com/in/siddharth-potphode-6a212a284
 
